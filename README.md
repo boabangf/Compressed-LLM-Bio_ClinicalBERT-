@@ -1,6 +1,6 @@
 # Compressed-Bio_ClinicalBER
 
-#MIMIC-III, Mayo Clinic Bipolar Disorder, and Quebec Congenital Heart Disease EHR datasets#
+**MIMIC-III, Mayo Clinic Bipolar Disorder, and Quebec Congenital Heart Disease EHR datasets**
 
 
 **Dataset**: https://www.kaggle.com/datasets/bilal1907/mimic-iii-10k
