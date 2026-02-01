@@ -2,6 +2,8 @@
 
 **MIMIC-III, Mayo Clinic Bipolar Disorder, and Quebec Congenital Heart Disease EHR datasets**
 
+https://medium.com/@awlong20/getting-access-to-mimic-iii-hospital-database-for-data-science-projects-791813feb735
+
 Convex vs Nonconvex activation Function
 
 https://github.com/pilancilab/scnn/blob/main/notebooks/convex-vs-nonconvex.ipynb
