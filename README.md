@@ -1,7 +1,6 @@
 # Compressed-Bio_ClinicalBER
 
 **MIMIC-III**
-**Dataset**: https://www.kaggle.com/datasets/bilal1907/mimic-iii-10k
 
 **CITATION**
 
